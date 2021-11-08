@@ -1,6 +1,6 @@
 VIDEO_SAVE_PATH='./VSPW/video/'
 
-TARGET_PATH='./VSPW/data/'
+TARGET_PATH='./VSPW/'
 
 
 python download_hd.py $VIDEO_SAVE_PATH ####download hd videos
