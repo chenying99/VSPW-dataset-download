@@ -1,7 +1,7 @@
 1059_OS-utbiLy6o 918 962
 1109_4CQ0mMmmsYQ 32 167
 105_bLeA1s91jao 557 692  # 无效
-1755_-GFqGa0fF_0 2628 2672
+1755_-GFqGa0fF_0 2628 2672  # -G参数无效 人工下载 !youtube-dl -f "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best" --no-check-certificate  https://www.youtube.com/watch?v=-GFqGa0fF_0
 1759_1SctDbKe7xQ 2733 2747
 2288_clEYMpwRGdw 17 76  # 存在问题
 2320_TLyNh9kLYjs 227 301
